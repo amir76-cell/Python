@@ -8,3 +8,7 @@ def au_revoir():
 
 def rebonjour():
     print("re bonjour")
+
+
+def fini():
+    print("et voilà")
