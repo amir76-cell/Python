@@ -4,3 +4,7 @@ def bonjour():
 
 def au_revoir():
     print("au revoir")
+
+
+def rebonjour():
+    print("re bonjour")
