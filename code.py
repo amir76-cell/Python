@@ -79,3 +79,14 @@ print(L)
 # exercice 11
 L = [i for i in range(1, 11) if i % 2 == 0]
 print(L)
+# exercice 12
+L = [6, 8, 3, 4, 1, 12, 2, 9.2]
+L.sort()
+print(L)
+
+# exercice 13
+L = [3, 2, 2, 1, 4, 3, 5, 1, 2]
+L.count(2)  # Compte le nombre de fois que 2 apparaît dans la liste
+L.count(3)  # Compte le nombre de fois que 3 apparaît dans la liste
+print(L.count(2))
+print(L.count(3))
